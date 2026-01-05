@@ -1,0 +1,11 @@
+TPS4056
+ - Constant current, lithium ion charger IC
+
+USB-C port
+ - 5V rail
+
+DW01 
+ - Protection IC -- short-circuit
+
+FS8205 x2
+ - MOSFET
